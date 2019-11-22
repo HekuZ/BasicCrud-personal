@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BasicCrud</string>
+    <string name='et1'>Ingrese datos de la serie</string>
+    <string name='et2'>Nombre : </string>
+    <string name='et3'>Categoria : </string>
+    <string name='et4'>Episodios : </string>
+    <string name='et5'>Agregar</string>
+</resources>
